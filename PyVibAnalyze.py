@@ -36,9 +36,9 @@ import pyqtgraph as pg
 import xlsxwriter
 
 # for Windows uncomment this line
-sys.path.append("C:\\PyVib\\src")
+#sys.path.append("C:\\PyVib\\src")
 # for MacOS X uncomment this line
-#sys.path.append('/Volumes/NO NAME/OCT Mscan analysis program/PyVib src')
+sys.path.append('/Volumes/NO NAME/OCT Mscan analysis program/PyVib src')
 import MScan
 
 #Set to a white background
